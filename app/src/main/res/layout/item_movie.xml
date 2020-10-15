@@ -22,7 +22,8 @@
         android:layout_marginStart="6dp"
         android:layout_toEndOf="@+id/ivPoster"
         android:textSize="24sp"
-        tools:text="2067" />
+        tools:text="2067"
+        style="@style/BlackText"/>
 
     <TextView
         android:id="@+id/tvOverview"
